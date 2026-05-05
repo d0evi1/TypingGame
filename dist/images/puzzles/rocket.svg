@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Rocket body -->
+  <path d="M 100 20 Q 70 60 70 140 L 70 170 L 85 150 L 85 170 L 100 150 L 115 170 L 115 150 L 130 170 L 130 140 Q 130 60 100 20" fill="#E8E8E8"/>
+  <!-- Window -->
+  <circle cx="100" cy="70" r="20" fill="#4A90D9"/>
+  <circle cx="100" cy="70" r="15" fill="#87CEEB"/>
+  <ellipse cx="95" cy="65" rx="5" ry="8" fill="#FFFFFF" opacity="0.6"/>
+  <!-- Fins -->
+  <polygon points="70,140 50,175 70,170" fill="#FF4444"/>
+  <polygon points="130,140 150,175 130,170" fill="#FF4444"/>
+  <!-- Flames -->
+  <polygon points="85,170 95,200 100,175 105,200 115,170" fill="#FF6B00"/>
+  <polygon points="92,170 98,195 100,180 102,195 108,170" fill="#FFD700"/>
+  <!-- Details -->
+  <ellipse cx="100" cy="35" rx="8" ry="5" fill="#FF4444"/>
+  <rect x="75" y="100" width="50" height="3" fill="#333"/>
+  <rect x="75" y="115" width="50" height="3" fill="#333"/>
+</svg>
